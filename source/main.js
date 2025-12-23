@@ -28,7 +28,7 @@ let select = s => document.querySelector(s),
 		woodColor = '#A63C06',
 		treeColor = '#0F7173',
     subm1Str = 'UNE TODOS LOS PUNTOS',
-    subm2Str = '... DISFRUTA :)',
+    subm2Str = '',
 		followerVX = 0,
 		followerVY = 0
     
